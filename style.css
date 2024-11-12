@@ -1,0 +1,15 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #dbd8e1;
+}
+
+#game {
+    width: 100%;
+    height: 100%;
+    display: block;
+    border: 10px solid #000;
+    box-sizing: border-box;
+}
